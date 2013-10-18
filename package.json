@@ -1,0 +1,11 @@
+{"name":  "backend"
+,"description":"backend services for web site data"
+,"version": "0.0.1"
+,"dependencies": 
+ {"restify":"2.6.0"
+ ,"node-redis":"0.1.7"
+ ,"mocha":"1.13.0"
+ ,"mongojs":"0.9.6"
+ ,"supertest":"0.8.0"
+ }
+}
